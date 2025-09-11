@@ -1,3 +1,8 @@
+# ⚠️ Use this image instead: ⚠️
+https://github.com/serfriz/caddy-custom-builds/tree/main/caddy-cloudflare
+
+## Im archiving this repo and recommending everyone who's using this image to use the one above instead.
+
 Cloudflare module for Caddy
 ===========================
 
